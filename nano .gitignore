@@ -1,0 +1,16 @@
+# n8n
+.n8n/
+*.env
+.env.local
+
+# API Keys
+*credentials*
+*apikey*
+*secret*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
